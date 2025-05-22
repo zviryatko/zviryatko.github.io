@@ -1,4 +1,4 @@
 ---
-title: Hi there!
+title: Welcome
 ---
 
