@@ -1,6 +1,5 @@
-remote_theme: "jekyll/minima@1e8a445"
 title: zviryatko's blog
 author: Oleksandr Davyskyba
 description: Hi there 🖐. I'm developer from Ukraine 🇺🇦, and here my tiny personal blog.
 github_username:  zviryatko
-markdown: kramdown
+theme: minima
