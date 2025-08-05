@@ -5,8 +5,6 @@ github_username:  zviryatko
 theme: minima
 minima:
   nav_pages:
-    - title: Home
-      url: /
     - title: About
       url: /about/
   social_links:
