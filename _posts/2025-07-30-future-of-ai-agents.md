@@ -2,6 +2,7 @@
 layout: post
 title: "Future of AI agents"
 date: 2025-07-30
+excerpt_separator: <!--more-->
 ---
 
 AI agents are at only ~10% of their potential. Why? Because they don’t run in a `while(true)` loop.

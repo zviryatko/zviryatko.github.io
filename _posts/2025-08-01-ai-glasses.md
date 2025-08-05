@@ -2,6 +2,7 @@
 layout: post
 title: "AI glasses"
 date: 2025-08-01
+excerpt_separator: <!--more-->
 ---
 
 Mark said that he’s sure in the future anyone who doesn’t use AI glasses won’t have any learning or work advantages compared to those who wear them.

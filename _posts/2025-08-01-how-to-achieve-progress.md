@@ -2,6 +2,7 @@
 layout: post
 title: "How to achieve progress"
 date: 2025-08-01
+excerpt_separator: <!--more-->
 ---
 
 The line of progress looks parabolic — to achieve your goals you must work twice as hard as expected.

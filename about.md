@@ -4,8 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-## 👤 About Me
-
 I’m **Oleksandr “Alex” Davyskyba** (aka: `zviryatko`) — a seasoned software developer and technical lead from Ukraine.
 
 With over 10 years of web development experience, I specialize in **PHP (especially Drupal)** and **Go**, and I’m adept at building scalable, maintainable solutions.

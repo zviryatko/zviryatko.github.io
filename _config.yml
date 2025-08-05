@@ -4,9 +4,9 @@ description: Hi there 🖐. I'm Alex 🇺🇦 — a builder, thinker, and believ
 github_username:  zviryatko
 theme: minima
 minima:
+  show_excerpts: true
   nav_pages:
-    - title: About
-      url: /about/
+    - about.md
   social_links:
     - title: GitHub
       icon: github

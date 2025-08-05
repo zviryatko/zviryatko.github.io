@@ -2,6 +2,7 @@
 layout: post
 title: "AI coding future"
 date: 2025-07-30
+excerpt_separator: <!--more-->
 ---
 
 A good measure of code quality used to be supportability — code should remain maintainable over time and through business changes.
