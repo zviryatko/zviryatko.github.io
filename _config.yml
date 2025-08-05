@@ -1,8 +1,21 @@
-title: zviryatko's blog
+title: Gradient of Me
 author: Oleksandr Davyskyba
-description: Hi there 🖐. I'm developer from Ukraine 🇺🇦, and here my tiny personal blog.
+description: Hi there 🖐. I'm Alex 🇺🇦 — a builder, thinker, and believer in deep iterative improvement.
 github_username:  zviryatko
 theme: minima
 minima:
-  show_excerpts: true
+  nav_pages:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/zviryatko"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/zviryatko/"
+  skin: auto
+  hide_site_feed_link: true
 google_analytics: G-6G5LPB7WEB
