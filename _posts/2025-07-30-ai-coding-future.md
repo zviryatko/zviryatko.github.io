@@ -5,8 +5,8 @@ date: 2025-07-30
 excerpt_separator: <!--more-->
 ---
 
-A good measure of code quality used to be supportability — code should remain maintainable over time and through business changes.
+Recently, a good measure of code quality was supportability. Your code must be possible to maintain after some time or years or when business changes. 
 
-Now, we must write code that AI can maintain: simple local setup, clear testing, common implementation patterns.
+Now it looks like we need to write code that AI can easily maintain. To have a common way to setup it locally and run tests, a common way to implement features. 
 
-It’s the same as writing good code — but now we can measure how easy it is for AI to maintain.
+Actually the same for normal good code, but now we can measure - is our code really easy to maintain
