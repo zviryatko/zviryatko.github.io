@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beat time to learn AI"
+title: "Best time to learn AI"
 date: 2025-08-07
 excerpt_separator: <!--more-->
 ---
