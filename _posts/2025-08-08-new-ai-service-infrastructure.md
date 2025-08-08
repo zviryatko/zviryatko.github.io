@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New AI service infrastructure"
-date: 2025-08-07
+date: 2025-08-08
 excerpt_separator: <!--more-->
 ---
 
