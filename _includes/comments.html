@@ -1,10 +1,17 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-    <div id="cusdis_thread"
-         data-host="https://cusdis.com"
-         data-app-id="c15c87e4-ffdd-4103-8e15-43d6c329c6e7"
-         data-page-id="{{ page.url | absolute_url }}"
-         data-page-url="{{ page.url | absolute_url }}"
-         data-page-title="{{ page.title }}"
-    ></div>
-    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script src="https://giscus.app/client.js"
+            data-repo="zviryatko/zviryatko.github.io"
+            data-repo-id="R_kgDOOuZp1A"
+            data-category-id="DIC_kwDOOuZp1M4CuAIs"
+            data-mapping="url"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="preferred_color_scheme"
+            data-lang="en"
+            data-loading="lazy"
+            crossorigin="anonymous"
+            async>
+    </script>
 {%- endif -%}
