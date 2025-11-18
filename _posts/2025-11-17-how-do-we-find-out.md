@@ -5,8 +5,8 @@ date: 2025-11-17
 excerpt_separator: <!--more-->
 ---
 
-Pretending to thinking will lead to perceiving AI as alway pretending and never real. But when it'd come, how would we understand, and, what's more important, agree on giving AI it's status of self-awareness, consciousness, and maybe independence?
+Pretending to think will lead to perceiving AI as always pretending and never be real. But when it'd come, how would we understand, and, what's more important, agree on giving AI its status of self-awareness, consciousness, and maybe independence?
 
-A lot of people still believe that animals are not self-aware. They don't even believe those can speak with each other. Or somehow such people can imagine reasoning communication without intelligence. And even worse, people kinda understand that animals are real, self-aware, with real thinking, fear, life, love, death. But still treating them as lower-level creatures who doesn't deserve for all of that.
+A lot of people still believe that animals are not self-aware. They don't even think animals can speak with each other. Or somehow such people can imagine reasoning communication without intelligence. And even worse, people kinda understand that animals are real, self-aware, with real thinking, fear, life, love, death. But still treating them as lower-level creatures who don't deserve all of that.
 
-The next logical question: what should we do when AI achieve our expectations about being real creature. Probably we should already start working on checklist.
+The next logical question: what should we do when AI achieves our expectations about being a real creature. Probably we should already start working on a checklist.
