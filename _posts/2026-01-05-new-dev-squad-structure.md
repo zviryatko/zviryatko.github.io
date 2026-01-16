@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Dev squad structe"
+title: "New Dev squad structure"
 date: 2026-01-05
 ---
 
