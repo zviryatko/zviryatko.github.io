@@ -17,6 +17,8 @@ minima:
   skin: auto
   hide_site_feed_link: true
 google_analytics: G-6G5LPB7WEB
+feed:
+  posts_limit: 9999
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
