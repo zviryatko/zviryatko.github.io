@@ -243,3 +243,19 @@ body {
         font-size: 1rem;
     }
 }
+
+/* Post Content Images */
+.post-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    cursor: zoom-in;
+    display: block;
+    margin: 1rem auto;
+}
+
+.post-content a > img:hover {
+    transform: scale(1.02);
+}

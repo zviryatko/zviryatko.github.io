@@ -19,6 +19,43 @@ layout: default
     {{ content }}
   </div>
 
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Make images click-to-full
+      document.querySelectorAll('.post-content img').forEach(function(img) {
+        if (img.parentElement.tagName.toLowerCase() !== 'a') {
+          var a = document.createElement('a');
+          a.href = img.src;
+          a.target = '_blank';
+          a.title = 'Click to view full size';
+          img.parentNode.insertBefore(a, img);
+          a.appendChild(img);
+        }
+      });
+
+      // Auto-link bare URLs
+      var postContent = document.querySelector('.post-content');
+      if (postContent) {
+        var walker = document.createTreeWalker(postContent, NodeFilter.SHOW_TEXT, null, false);
+        var nodesToReplace = [];
+        var node;
+        while (node = walker.nextNode()) {
+          var parentTag = node.parentNode.tagName.toLowerCase();
+          if (parentTag !== 'a' && parentTag !== 'code' && parentTag !== 'pre') {
+            if (/(https?:\/\/[^\s]+)/.test(node.nodeValue)) {
+              nodesToReplace.push(node);
+            }
+          }
+        }
+        nodesToReplace.forEach(function(n) {
+          var span = document.createElement('span');
+          span.innerHTML = n.nodeValue.replace(/(https?:\/\/[^\s<]+[^<.,:;"')\]\s])/g, '<a href="$1" target="_blank">$1</a>');
+          n.parentNode.replaceChild(span, n);
+        });
+      }
+    });
+  </script>
+
   <div id="share-bar">
     <h5>Share this post</h5>
     <ul>
