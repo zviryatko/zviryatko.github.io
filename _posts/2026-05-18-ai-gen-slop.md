@@ -23,6 +23,7 @@ You may think that it is just one random repo with prompt created not by profess
 The Spec-Kit is a tool that transform the way how you develop your app, like Test-Driving-Development. The main idea is that you keep text-only specifications in core of app and uses agents to generate the shell. It was popular in era of Ruby, where people wants to keep the trace for every feature they adds. I.e. reason to have any line of number, like related github issue in commit. So here is example from Spec-Kit documentation:
 
 > /speckit.clarify Focus on security and performance requirements.
+
 https://github.github.com/spec-kit/quickstart.html#step-4-refine-and-validate-the-spec
 
 And my question is the same - what if I don't tell AI Agent to focus on Security and Performance? Would it make slow and leaky app? Well, when it is, than we ducked up. 🦆🦆🦆
