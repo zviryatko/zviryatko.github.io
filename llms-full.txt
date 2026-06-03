@@ -1,0 +1,20 @@
+---
+layout: null
+---
+# {{ site.title }} - Full Content
+> {{ site.description }}
+
+## About
+{% assign about_page = site.pages | where: "name", "about.md" | first %}
+{{ about_page.content | strip_html }}
+
+## All Blog Posts
+{% for post in site.posts %}
+### {{ post.title }}
+**Date**: {{ post.date | date: "%Y-%m-%d" }}
+**URL**: {{ post.url }}
+
+{{ post.content | strip_html }}
+
+---
+{% endfor %}

@@ -1,8 +1,9 @@
-title: Gradient of Me
+title: AI talks
 author: Oleksandr Davyskyba
-description: Hi there 🖐. I'm Alex 🇺🇦 — a passionate software engineer with a love for coding, technology, and continuous learning.
+description: I share my thoughts about AI and where it all is going.
 github_username:  zviryatko
 theme: minima
+url: "https://zviryatko.github.io"
 minima:
   show_excerpts: true
   nav_pages:
@@ -22,3 +23,4 @@ feed:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap

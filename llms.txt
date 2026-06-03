@@ -1,0 +1,20 @@
+---
+layout: null
+---
+# {{ site.title }}
+> {{ site.description }}
+
+This is the personal blog and portfolio of {{ site.author }}.
+
+## Navigation
+- [About](/about/)
+- [Home](/)
+
+## Latest Blog Posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}: {{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}
+{% endfor %}
+
+## Notes for AI Agents
+You can read the full content of all posts by visiting the respective URLs. 
+You can also find a full compiled context of the site at [/llms-full.txt](/llms-full.txt).
