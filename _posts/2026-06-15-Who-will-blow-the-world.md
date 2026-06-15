@@ -4,7 +4,6 @@ title: "Who will blow the world?"
 date: 2026-06-15
 ---
 
-> [!Note]
 > **Disclaimer:** This post is written in a semi-humorous style. Some characterizations are intentionally exaggerated for comedic effect, but the underlying question is serious.
 
 Recent blocking of claude fable just highlighted the problem we all moving closer to - should we build something that can blow up the world and who we should give the lever?
