@@ -4,11 +4,14 @@ title: "Who will blow the world?"
 date: 2026-06-15
 ---
 
+> [!Note]
+> **Disclaimer:** This post is written in a semi-humorous style. Some characterizations are intentionally exaggerated for comedic effect, but the underlying question is serious.
+
 Recent blocking of claude fable just highlighted the problem we all moving closer to - should we build something that can blow up the world and who we should give the lever?
 
 First, the answer - ofcourse we should, why not, since we can, it is already out, and the best quote I like: "it's out of our control" (c) Zuckerberg.
 
-The bird is out, no one can hold it in hands any more. Or actually could we? I'm pretty sure we can, and will explain below.
+The bird is out of the cage, no one can hold it in hands any more. Or actually could we? I'm pretty sure we can, and will explain below.
 
 Second, who should be the chosen one? Here we have another problem, short map on candidates:
 
@@ -20,11 +23,9 @@ Second, who should be the chosen one? Here we have another problem, short map on
 
 4. Elon Musk - addicted with all possible mental health issues. You don't even need the proove. Not even an option.
 
-5. The Celestial Kingdom - Chinese dominance in any advanced tech never ends well to whole other world. If you didn't hear about Han chauvinism, soon you'll. So that's long-term harmful option, like all previous.
+5. The Celestial Kingdom - Chinese dominance in any advanced tech never ends well to whole other world. If you didn't hear about Han chauvinism, soon you'll. So that's long-term harmful option, like all previous. Who else was left behind? 
 
-Who was left behind? 
-
-6. Maybe google's couple? No, they will eat whole pie alone without inviting anyone to the party.
+6. Maybe google's duo? No, they will eat whole pie alone without inviting anyone to the party.
 
 7. Larry Ellison? Maybe, but he will just give the keys to the gov. Not the worst thing, nor the best.
 
